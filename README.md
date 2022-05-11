@@ -1,4 +1,5 @@
-### Hola a todos 👋, mi nombre es Gustavo y soy un Analista Programador. En este repo podrán ver algunos de mis desarrollos en java, node, js, react, etc.
+### Hola a todos 👋, mi nombre es Gustavo y soy un Analista Programador. 
+En este repo podrán ver algunos de mis desarrollos en java, node, js, react, etc.
 Actualmente estoy invirtiendo mucho tiempo y dedicación en react, ya que me gustaría dedicarme a front, aunque también tengo dominio de back y servicios.
 
 
