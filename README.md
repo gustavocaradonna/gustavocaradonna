@@ -3,7 +3,7 @@ En este repo podrán ver algunos de mis desarrollos en java, node, js, react, et
 Actualmente estoy invirtiendo mucho tiempo y dedicación en react, ya que me gustaría dedicarme a front, aunque también tengo dominio de back y servicios.
 
 
-📫 Cómo contactarme: gustavocaradonna@gmail.com
+📫 Contacto: gustavocaradonna@gmail.com
 
 Saludos! 🎈
 
