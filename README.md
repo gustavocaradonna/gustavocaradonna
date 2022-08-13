@@ -4,7 +4,6 @@
 
 ### Hola a todos 👋, mi nombre es Gustavo y soy un Analista en Sistemas 💻. 
 En este repo podrán ver algunos de mis desarrollos en react, node, js, java, etc.
-Actualmente estoy invirtiendo mucho tiempo y dedicación en react, ya que me gustaría dedicarme al front, aunque también tengo dominio de back y servicios.
 
 
 📫 Contacto: gustavocaradonna@gmail.com
